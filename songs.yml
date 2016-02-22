@@ -1,0 +1,21 @@
+---
+- !ruby/object:Song
+  title: The End
+  artist: The Doors
+  genre: :classic_rock
+- !ruby/object:Song
+  title: Oops I did it Again
+  artist: Britney Spears
+  genre: :pop
+- !ruby/object:Song
+  title: Blackstar
+  artist: David Bowie
+  genre: :glam_rock
+- !ruby/object:Song
+  title: Save Me
+  artist: Queen
+  genre: :glam_rock
+- !ruby/object:Song
+  title: Strange (I've Seen That Face Before)
+  artist: Grace Jones
+  genre: :grace_jones
